@@ -1,0 +1,1 @@
+Utwórz funkcję, która przyjmuje liczbę całkowitą jako argument i zwraca "Even"dla liczb parzystych lub "Odd"nieparzystych.
