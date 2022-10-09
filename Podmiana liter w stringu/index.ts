@@ -19,20 +19,20 @@ describe("Sample Test Cases", function(){
 
 // rozwiązania innych:
 
-export function DNAtoRNA(dna: string): string {
-    return dna.split("").map((letter: string)=> {
-        if (letter == "T") {
-          return letter = "U"
-        } else {
-          return letter
-        }
-    }).join('')
-}
+    export function DNAtoRNA(dna: string): string {
+        return dna.split("").map((letter: string)=> {
+            if (letter == "T") {
+            return letter = "U"
+            } else {
+            return letter
+            }
+        }).join('')
+    }
 
 
-export const DNAtoRNA = (str:string):string => str.replace(/T/g, 'U')
+  export const DNAtoRNA = (str:string):string => str.replace(/T/g, 'U')
 
-export function DNAtoRNA(dna: string): string {
+  export function DNAtoRNA(dna: string): string {
     let re = /\T/gi;
   let result = dna.replace(re, "U");
   
