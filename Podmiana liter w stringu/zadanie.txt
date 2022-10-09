@@ -1,0 +1,10 @@
+Kwas dezoksyrybonukleinowy, DNA jest podstawową cząsteczką przechowującą informacje w układach biologicznych. Składa się z czterech zasad kwasu nukleinowego: guaniny („G”), cytozyny („C”), adeniny („A”) i tyminy („T”).
+
+Kwas rybonukleinowy, RNA, jest podstawową cząsteczką przekaźnikową w komórkach. RNA różni się nieznacznie od DNA budową chemiczną i nie zawiera tyminy. W RNA Tymina jest zastąpiona innym kwasem nukleinowym Uracyl ('U').
+
+Utwórz funkcję, która tłumaczy dany ciąg DNA na RNA.
+
+Na przykład:
+
+"GCAT"  =>  "GCAU"
+Ciąg wejściowy może mieć dowolną długość - w szczególności może być pusty. Gwarantuje się, że wszystkie dane wejściowe są prawidłowe, tj. każdy ciąg wejściowy będzie zawsze składał się wyłącznie z 'G', 'C'i 'A'/lub 'T'.
