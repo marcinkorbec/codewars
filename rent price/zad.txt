@@ -1,0 +1,7 @@
+Po ciężkim kwartale w biurze postanawiasz odpocząć na wakacjach. Więc zarezerwujesz lot dla siebie i swojej dziewczyny i spróbujesz zostawić cały bałagan za sobą.
+
+Będziesz potrzebować wynajętego samochodu, aby móc poruszać się po wakacjach. Kierownik wypożyczalni samochodów składa Ci kilka dobrych ofert.
+
+Każdego dnia wynajmujesz samochód kosztuje 40 USD. Jeśli wynajmujesz samochód na 7 lub więcej dni, otrzymasz 50 USD zniżki. Alternatywnie, jeśli wynajmujesz samochód na 3 lub więcej dni, otrzymasz 20 USD zniżki.
+
+Napisz kod, który podaje łączną kwotę dla różnych dni (d).
